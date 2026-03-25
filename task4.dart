@@ -11,7 +11,7 @@ void main(){
 // print("Amount of your ${tp} Tickets is: ${res}");
 stdout.write("Pleaes Enter User Name:");
 var a=stdin.readLineSync();
-stdout.write("Pleaes Enter quantity:");
+stdout.write("Pleaes Enter quantity for the further items:");
 int b=int.parse(stdin.readLineSync()!);
 
 }
