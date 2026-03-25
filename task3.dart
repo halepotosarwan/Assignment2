@@ -1,7 +1,7 @@
 import 'dart:io';
 void main(){
 ////Take Two Number from user and subtract/Divide and multiply them in new Variable
-print("/t/tSubtraction:");
+print("/t/tSubtraction ***:");
 stdout.write("Please Enter Your First Number: ");
 num n1=num.parse(stdin.readLineSync()!);
 stdout.write("Please Enter Your Second Number: ");
