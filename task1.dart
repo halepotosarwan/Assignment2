@@ -3,7 +3,7 @@ void main(){
   //
 stdout.write("Visitor's Name: ");
 String a=stdin.readLineSync()!;
-stdout.write("Please Enter Your Product Tittle: ");
+stdout.write("Please Enter Your Product Tittle Here: ");
 String pt=stdin.readLineSync()!;
 stdout.write("Please Enter how many Prodcut you want to order: ");
 int pd=int.parse(stdin.readLineSync()!);
